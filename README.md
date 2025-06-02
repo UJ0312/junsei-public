@@ -9,7 +9,8 @@
 |2024-04-06|2024-04-06|SysOps Administrator - Associate (SOA)|
 |2024-06-23|2024-06-23|Developer - Associate (DVA)|
 |2024-09-16|2024-09-16|Certified Solutions Architect - Professional (SAP)|
-|2024-09-16|2024-09-16|Certified AI Practitioner (AIF)|
+|2025-02-08|2024-02-08|Certified AI Practitioner (AIF)|
+|2025-06-01|2025-06-01|Certified Security - Specialty (SCS)|
 
 ## LPIC
 |受験日|取得日|資格名|
